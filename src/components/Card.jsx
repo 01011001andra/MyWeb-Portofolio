@@ -58,19 +58,16 @@ const Card = () => {
                     <a
                       target="_blank"
                       rel="noreferrer"
-                      href="https://react-pwa-e755b.web.app/"
+                      href="https://al-quran-84180.web.app/"
                     >
                       <AiOutlineEye size={28} />
                     </a>
                   </div>
                   <h6 className="text-xl font-semibold">
-                    PBL Business Improvement <br />
-                    (Progress 40%)
+                    Al-Qur'an Digital
                   </h6>
                   <p className="mt-2 mb-4 text-blueGray-500">
-                    Project Based Learning yang dilakukan selama 1 semester,
-                    dengan melakukan analisis,prototyping figma, hingga
-                    pembuatan fontend dan backend.
+                  Project ini menggunakan Reactjs, Tailwindcss, DaisyUi, dan Firebase
                   </p>
                 </div>
               </AnimationOnScroll>
